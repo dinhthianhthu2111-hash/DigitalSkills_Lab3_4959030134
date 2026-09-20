@@ -7,7 +7,7 @@
 
 ---
 ## CHU DE NGHIEN CUU
-[ Giáo dục Mầm non: Phát triển tư duy ngôn ngữ/toán học cho trẻ,...]
+Giáo dục Mầm non: Phát triển tư duy ngôn ngữ/toán học cho trẻ
 ---
 ## DANH SACH TRICH DAN TAI LIEU
 1. ** Ten bai bao / Tai lieu 1:** [DẠY HỌC THEO PHƯƠNG PHÁP MONTESSORI
