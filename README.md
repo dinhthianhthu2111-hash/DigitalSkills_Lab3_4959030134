@@ -7,9 +7,7 @@
 
 ---
 ## CHU DE NGHIEN CUU
-[ Giáo dục Mầm non: Phương pháp dạy học tích cực, Ứng dụng công nghệ
-trong quản lý lớp học, Phát triển tư duy ngôn ngữ/toán học cho trẻ, Tâm lý học lứa
-tuổi,...]
+[ Giáo dục Mầm non: Phát triển tư duy ngôn ngữ/toán học cho trẻ,...]
 ---
 ## DANH SACH TRICH DAN TAI LIEU
 1. ** Ten bai bao / Tai lieu 1:** [DẠY HỌC THEO PHƯƠNG PHÁP MONTESSORI
