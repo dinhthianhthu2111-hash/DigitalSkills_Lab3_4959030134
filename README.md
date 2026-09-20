@@ -15,14 +15,11 @@
 - Tac gia : [ Nhâm Thị Hồng]
 - Nam xuat ban : [ 2020 ]
 - Nguon / Tap chi : [https://scholar.dlu.edu.vn/thuvienso/bitstream/DLU123456789/134520/1/DT-KHRLNS112020038.pdf ]
-2. ** Ten bai bao / Tai lieu 2:** [ Vận dụng thuyết đa trí tuệ vào việc thiết kế trò chơi học tập nhằm hình thành biểu tượng
-toán học sơ đẳng cho trẻ 5 - 6 tuổi]
-- Tac gia : [ Lương Thị Minh Thủy1
-, Nguyễn Thanh Thẫm2 ]
-- Nam xuat ban : [2019]
-- Nguon / Tap chi : [ http://vjes.vnies.edu.vn/sites/default/files/bai_so_16_so_20_thang_9.2019.pdf ]
-3. ** Ten bai bao / Tai lieu 3:** [ Vận dụng phương pháp giáo dục Montessori hướng dẫn 
-sinh viên tổ chức hoạt động khám phá cho trẻ mẫu giáo tại Trường Cao đẳng Sư phạm Hà Tây ]
+2. ** Ten bai bao / Tai lieu 2:** [ TỔNG QUAN VỀ PHÁT TRIỂN NĂNG LỰC NGÔN NGỮ THEO PHƯƠNG PHÁP GIÁO DỤC SỚM SHICHIDA CHO TRẺ 0- 6 TUỔI]
+- Tac gia : [ TS. Hoàng Thị Nho ]
+- Nam xuat ban : [2025]
+- Nguon / Tap chi : [https://tamlygiaoduc.com.vn/wp-content/uploads/2025/09/5.2.Tong-quan-ve-phat-trien-nang-luc-ngon-ngu-theo-phuong-phap-giao-duc-som-Shichida-cho-tre-0-6-tuoi.pdf]
+3. ** Ten bai bao / Tai lieu 3:** [ Vận dụng phương pháp giáo dục Montessori hướng dẫn sinh viên tổ chức hoạt động khám phá cho trẻ mẫu giáo tại Trường Cao đẳng Sư phạm Hà Tây ]
 - Tac gia : [Hà Thị Cẩm Nhung]
 - Nam xuat ban : [2021]
 - Nguon / Tap chi :[http://vjes.vnies.edu.vn/sites/default/files/noidung_sdb_05_2021-137-142.pdf]
